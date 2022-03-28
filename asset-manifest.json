@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Resturant_Filter/static/css/main.17655c3c.css",
+    "main.js": "/Resturant_Filter/static/js/main.9f446c0b.js",
+    "index.html": "/Resturant_Filter/index.html",
+    "main.17655c3c.css.map": "/Resturant_Filter/static/css/main.17655c3c.css.map",
+    "main.9f446c0b.js.map": "/Resturant_Filter/static/js/main.9f446c0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.9f446c0b.js"
+  ]
+}
